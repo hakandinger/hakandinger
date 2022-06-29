@@ -1,8 +1,8 @@
-Bimilyondünyasında Bir Meraklı 🤣
+- ⚡ Bimilyondünyasında Bir Meraklı 🤣
 
 <table class="center">
 <tr> 
-         Sosyal Linklerim
+         - 😻 Sosyal Linklerim
  </tr>
 <tr>
   
