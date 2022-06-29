@@ -2,7 +2,7 @@
 
 <table class="center">
 <tr> 
-         - 😻 Sosyal Linklerim
+         😻 Sosyal Linklerim
          <br></br>
  </tr>
 <tr>
