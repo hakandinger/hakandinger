@@ -1,4 +1,5 @@
 - ⚡ Bimilyondünyasında Bir Meraklı 🤣
+- ⚡ Elçin İçin Merakım &#127775;
 <table class="center">
   <tr> 
     <th colspan="4">😻 Sosyal Linklerim</th>
