@@ -2,7 +2,7 @@
 - ⚡ Elçin İçin Merakım &#127775;
 <table class="center">
   <tr> 
-    <th colspan="4">😻 Sosyal Linklerim</th>
+    <th colspan="5">😻 Sosyal Linklerim</th>
   </tr>
   <tr>
     <td>
