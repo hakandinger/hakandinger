@@ -1,5 +1,6 @@
 - ⚡ Bimilyondünyasında Bir Meraklı 🤣
 - ⚡ Elçin İçin Merakım &#127775;
+- ⚡ jr full stack developer
 <table class="center">
   <tr> 
     <th colspan="5">😻 Sosyal Linklerim</th>
